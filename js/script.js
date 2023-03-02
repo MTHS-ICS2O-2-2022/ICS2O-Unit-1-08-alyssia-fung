@@ -1,7 +1,7 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2023 Alyssiafung All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Alyssia Fung
+// Created on: march 2023
 // This file contains the JS functions for index.html
 function myButtonClicked() {
   alert("Hello, Wordl!")
